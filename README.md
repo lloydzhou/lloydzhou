@@ -1,5 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lloydzhou&show_icons=true&theme=dark" />
 
+### Welcome to lloydzhou's Github 🙈
+
+![lloydzhou's github visitor](https://profile-counter.glitch.me/lloydzhou/count.svg)
+
+🔭 I’m currently working on
+- [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue)
+- [vuecharts](https://github.com/lloydzhou/vuecharts)
+- [antis/x6](https://github.com/antvis/X6)
 <!--
 **lloydzhou/lloydzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
