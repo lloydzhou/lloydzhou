@@ -6,6 +6,7 @@
 
 🔭 I’m currently working on
 - [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue)
+- [x6-html-shape](https://github.com/lloydzhou/x6-html-shape)
 - [vuecharts](https://github.com/lloydzhou/vuecharts)
 - [antis/x6](https://github.com/antvis/X6)
 <!--
