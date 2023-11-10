@@ -5,8 +5,10 @@
 ![lloydzhou's github visitor](https://profile-counter.glitch.me/lloydzhou/count.svg)
 
 🔭 I’m currently working on
+- [g2x](https://github.com/lloydzhou/g2x)
 - [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue)
 - [x6-html-shape](https://github.com/lloydzhou/x6-html-shape)
+- [rc-echart](https://github.com/lloydzhou/rc-echart)
 - [vuecharts](https://github.com/lloydzhou/vuecharts)
 - [antis/x6](https://github.com/antvis/X6)
 <!--
