@@ -5,12 +5,11 @@
 ![lloydzhou's github visitor](https://profile-counter.glitch.me/lloydzhou/count.svg)
 
 🔭 I’m currently working on
-- [g2x](https://github.com/lloydzhou/g2x)
-- [antv-x6-vue](https://github.com/lloydzhou/antv-x6-vue)
-- [x6-html-shape](https://github.com/lloydzhou/x6-html-shape)
-- [rc-echart](https://github.com/lloydzhou/rc-echart)
-- [vuecharts](https://github.com/lloydzhou/vuecharts)
-- [antis/x6](https://github.com/antvis/X6)
+- [connectai](https://github.com/connectAI-E/connectai)
+- [GitMaya](https://github.com/connectAI-E/GitMaya)
+- [g2x](https://github.com/lloydzhou/g2x) [g2v](https://github.com/lloydzhou/g2v)
+- [x6-graph](https://github.com/lloydzhou/x6-graph) [x6-hooks](https://github.com/lloydzhou/x6-hooks) [x6-html-shape](https://github.com/lloydzhou/x6-html-shape) [antis/x6](https://github.com/antvis/X6)
+- [rc-echart](https://github.com/lloydzhou/rc-echart) [vuecharts](https://github.com/lloydzhou/vuecharts)
 <!--
 **lloydzhou/lloydzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
