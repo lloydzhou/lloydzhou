@@ -13,5 +13,6 @@ https://github.com/JunkFood02/Arch-Linux-Installation-Guide
 7. 更新系统，安装xorg vim git等软件
 8. 安装yaourt https://www.tecmint.com/install-yaourt-in-arch-linux/
 9. 配置lightdm https://wiki.archlinux.org/title/LightDM ，以及nwm/awesome
-10. 配置zsh
-11. 复制旧home目录配置  .config 
+10. 配置aur，并安装arm版 sakura ： https://aur.chaotic.cx/
+11. 配置zsh
+12. 复制旧home目录配置  .config 
