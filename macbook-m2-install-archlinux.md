@@ -12,6 +12,6 @@ https://github.com/JunkFood02/Arch-Linux-Installation-Guide
 6. systemctl enable dhcpcd + systemctl enable iwd启动网络
 7. 更新系统，安装xorg vim git等软件
 8. 安装yaourt https://www.tecmint.com/install-yaourt-in-arch-linux/
-9. 配置lightdm https://wiki.archlinux.org/title/LightDM，以及nwm/awesome
+9. 配置lightdm https://wiki.archlinux.org/title/LightDM ，以及nwm/awesome
 10. 配置zsh
 11. 复制旧home目录配置  .config 
